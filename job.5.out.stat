@@ -1,0 +1,91 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10139136030203555 Adjusted=0.9079424771643106 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: (type-of-action-of:
+     (random-action-of-type-other-than: click-action:)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10139136030203555 Adjusted=0.9079424771643106 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: (type-of-action-of:
+     (random-action-of-type-other-than: click-action:)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10139136030203555 Adjusted=0.9079424771643106 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: (type-of-action-of:
+     (random-action-of-type-other-than: click-action:)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10139136030203555 Adjusted=0.9079424771643106 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: (type-of-action-of:
+     (random-action-of-type-other-than: click-action:)))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10001216056059492 Adjusted=0.9090808591519332 Hits=0
+Tree 0:
+ (random-action-of-type-other-than: click-action:)

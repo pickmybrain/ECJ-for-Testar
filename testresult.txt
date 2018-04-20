@@ -1,0 +1,116 @@
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: (type-of-action-of: random-most-executed-action:)), , , , , , , , , , , , , , , 10000.0
+1, (if-then-else: (not: (not: (and: left-clicks-available: left-clicks-available:))) (random-action-of-type: (type-of-action-of: (random-unexecuted-action-of-type: type-action:))) (random-action-of-type: (type-of-action-of: (random-action-of-type: type-action:)))), , , , , , , , , , , , , , , 10000.0
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: random-unexecuted-action:)))), , , , , , , , , , , , , , , 10000.0
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-most-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-most-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: (type-of-action-of: (if-then-else: (and: (or: (not: left-clicks-available:) (and: left-clicks-available: left-clicks-available:)) (and: (or: left-clicks-available: type-actions-available:) (or: type-actions-available: left-clicks-available:))) (if-then-else: (not: (not: type-actions-available:)) (random-unexecuted-action-of-type: (type-of-action-of: random-unexecuted-action:)) (random-action-of-type-other-than: (type-of-action-of: previous-action:))) (random-unexecuted-action-of-type: (type-of-action-of: (if-then-else: type-actions-available: random-unexecuted-action: previous-action:)))))), , , , , , , , , , , , , , , 10000.0
+1, (random-action-of-type: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: (random-action-of-type: (type-of-action-of: (random-action-of-type-other-than: click-action:))))))), , , , , , , , , , , , , , , 10000.0
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: (type-of-action-of: (random-action-of-type-other-than: click-action:))), , , , , , , , , , , , , , , 10000.0
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: (random-unexecuted-action-of-type: (type-of-action-of: (if-then-else: left-clicks-available: random-action: random-unexecuted-action:))))))), , , , , , , , , , , , , , , 10000.0
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type: type-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-unexecuted-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: previous-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-unexecuted-action-of-type: click-action:), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)))), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, random-least-executed-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, previous-action:, 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)))), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+1, (random-action-of-type-other-than: (type-of-action-of: (random-action-of-type-other-than: (type-of-action-of: random-least-executed-action:)))), 0, 207.18, 67396.0, 4.013, 140.0, 11, 1.4520912202753306E-5, 17, 11, 25.00, 9, 2.78, 17, PASS, 3.8411575392469257
+3, random-action:, 0, 535.87, 128736.0, 3.189, 171.0, 48, 7.424634225090687E-6, 98, 58, 33.33, 45, 1.27, 100, PASS, 2.7790468761446947
+3, (if-then-else: (equals: (number-of-actions-of-type: (type-of-action-of: (random-unexecuted-action-of-type: (type-of-action-of: previous-action:)))) (number-of-actions-of-type: (type-of-action-of: (if-then-else: (not: type-actions-available:) (random-action-of-type: type-action:) (random-action-of-type-other-than: click-action:))))) (if-then-else: (not: (or: (not: (not: left-clicks-available:)) (not: (and: type-actions-available: left-clicks-available:)))) (random-action-of-type-other-than: (type-of-action-of: (if-then-else: (and: left-clicks-available: left-clicks-available:) (random-unexecuted-action-of-type: click-action:) (random-action-of-type: type-action:)))) (random-action-of-type: (type-of-action-of: (random-action-of-type: (type-of-action-of: random-action:))))) (random-unexecuted-action-of-type: (type-of-action-of: (random-unexecuted-action-of-type: (type-of-action-of: (random-action-of-type-other-than: click-action:)))))), , , , , , , , , , , , , , , 10000.0
+4, random-least-executed-action:, 0, 906.00, 57660.0, 3.274, 136.5, 3, 1.636789981062047E-5, 2, 3, 99.90, 4, 99.90, 2, FAIL, 4.120198289920676
+4, (if-then-else: (not: (not: type-actions-available:)) (random-action-of-type: (type-of-action-of: random-unexecuted-action:)) (random-unexecuted-action-of-type: (type-of-action-of: random-unexecuted-action:))), , , , , , , , , , , , , , , 10000.0
+4, (random-action-of-type: (type-of-action-of: random-least-executed-action:)), , , , , , , , , , , , , , , 10000.0
+6, random-least-executed-action:, 0, 296.78, 102000.0, 3.455, 150.0, 9, 9.644301523378097E-6, 12, 9, 50.00, 8, 1.11, 13, PASS, 3.1234395088757485
+7, random-unexecuted-action:, 0, 583.10, 97712.0, 4.372, 160.5, 14, 9.8466618395566E-6, 29, 16, 99.90, 11, 2.94, 34, FAIL, 3.1852333495283527
+8, random-action:, 0, 995.74, 96416.0, 4.488, 125.0, 14, 9.883282250331444E-6, 32, 17, 99.90, 16, 0.00, 35, FAIL, 3.2002313999452374
+9, previous-action:, 0, 459.71, 121480.0, 4.538, 171.0, 37, 7.990312022888595E-6, 80, 41, 99.90, 18, 2.63, 100, PASS, 2.8604280714522456
+9, (random-action-of-type: (type-of-action-of: random-most-executed-action:)), , , , , , , , , , , , , , , 10000.0
+10, random-least-executed-action:, 0, 1089.13, 97864.0, 5.323, 123.0, 5, 9.851698022885648E-6, 6, 5, 99.90, 5, 3.03, 6, FAIL, 3.175237117296969
+11, previous-action:, 0, 650.50, 104936.0, 3.426, 138.5, 17, 9.158702177848311E-6, 29, 20, 99.90, 14, 0.00, 30, FAIL, 3.073951314939921
+12, previous-action:, 0, 693.83, 108492.0, 4.559, 243.5, 40, 8.689084575843324E-6, 77, 50, 99.90, 34, 1.89, 78, FAIL, 3.0214834182640486
+13, previous-action:, 0, 1003.77, 92124.0, 5.358, 171.0, 16, 1.0284993281231227E-5, 33, 20, 99.90, 19, 2.08, 34, FAIL, 3.27197545416694
+14, random-least-executed-action:, 0, 322.67, 116824.0, 3.332, 123.0, 45, 8.251276032405496E-6, 93, 53, 71.43, 28, 2.13, 100, PASS, 2.919194044953014
+15, random-least-executed-action:, 0, 500.00, 141532.0, 5.314, 264.0, 32, 6.819326435515034E-6, 57, 41, 99.90, 22, 0.87, 58, FAIL, 2.6499660046124234
+16, random-least-executed-action:, 0, 509.32, 87332.0, 4.694, 226.0, 16, 1.1140493408384766E-5, 16, 17, 25.00, 15, 1.11, 16, PASS, 3.3691023525949517
+17, previous-action:, 0, 277.78, 122884.0, 3.339, 205.0, 48, 7.780639303349334E-6, 95, 56, 70.00, 41, 2.08, 100, PASS, 2.84620656520005
+18, random-least-executed-action:, 0, 388.92, 204984.0, 5.271, 287.0, 42, 4.755271464343671E-6, 90, 52, 99.90, 34, 0.84, 100, PASS, 2.2045106940476247
+19, random-least-executed-action:, 0, 290.12, 108144.0, 4.128, 216.5, 46, 8.916799518542582E-6, 98, 54, 57.14, 26, 2.08, 100, PASS, 3.0328807096484622
+20, random-least-executed-action:, 0, 339.32, 82984.0, 4.406, 123.0, 20, 1.1541384370924758E-5, 35, 22, 99.90, 11, 2.17, 35, FAIL, 3.4595284565584947
+21, random-least-executed-action:, 0, 586.62, 177712.0, 4.436, 433.5, 41, 5.41571517920433E-6, 91, 57, 77.78, 50, 1.22, 100, PASS, 2.3648093668820875
+22, random-least-executed-action:, 0, 992.31, 89288.0, 4.892, 171.0, 19, 1.0661959260155182E-5, 35, 21, 99.90, 13, 1.89, 36, FAIL, 3.323029602390068
+23, random-least-executed-action:, 0, 758.06, 104236.0, 3.370, 235.5, 40, 9.082376462992577E-6, 64, 41, 99.90, 27, 0.00, 64, FAIL, 3.08117284841766
+24, random-least-executed-action:, 0, 159.47, 114864.0, 3.369, 123.5, 36, 8.48211735181252E-6, 84, 42, 75.00, 17, 1.33, 100, PASS, 2.9459244967359357
+25, random-least-executed-action:, 0, 901.69, 76636.0, 4.355, 123.0, 6, 1.2467849595836213E-5, 18, 6, 99.90, 6, 9.38, 27, FAIL, 3.5857423679223497
+26, random-least-executed-action:, 0, 40575.20, 156548.0, 3.315, 225.0, 30, 4.948943020922957E-6, 47, 34, 99.90, 26, 0.86, 49, FAIL, 2.2504420249498223
+27, random-least-executed-action:, 0, 520.70, 127704.0, 4.438, 126.5, 22, 7.6280201640013836E-6, 46, 27, 99.90, 16, 1.69, 54, PASS, 2.7900952937401344
+28, random-least-executed-action:, 0, 388.81, 96312.0, 4.347, 175.0, 9, 1.0193458303867776E-5, 13, 10, 50.00, 8, 1.10, 14, PASS, 3.2119282667793376
+29, random-least-executed-action:, 0, 404.20, 106296.0, 3.322, 124.0, 14, 9.104021427176707E-6, 23, 14, 99.90, 10, 2.08, 24, FAIL, 3.0580824976209375

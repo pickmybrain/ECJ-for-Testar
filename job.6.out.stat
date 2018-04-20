@@ -1,0 +1,147 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1004417293145606 Adjusted=0.9087259900829794 Hits=0
+Tree 0:
+ (if-then-else: (or: type-actions-available:
+     left-clicks-available:) (if-then-else: type-actions-available:
+     random-least-executed-action: random-unexecuted-action:)
+     (random-unexecuted-action-of-type: type-action:))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.1004417293145606 Adjusted=0.9087259900829794 Hits=0
+Tree 0:
+ (if-then-else: (or: type-actions-available:
+     left-clicks-available:) (if-then-else: type-actions-available:
+     random-least-executed-action: random-unexecuted-action:)
+     (random-unexecuted-action-of-type: type-action:))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10022275943961982 Adjusted=0.9089068476544998 Hits=0
+Tree 0:
+ (random-unexecuted-action-of-type: (type-of-action-of:
+     (if-then-else: (not: (equals: number-of-previous-actions:
+         random-number:)) (random-unexecuted-action-of-type:
+         (type-of-action-of: random-most-executed-action:))
+         (if-then-else: (not: type-actions-available:)
+             (random-unexecuted-action-of-type: click-action:)
+             (random-action-of-type: type-action:)))))

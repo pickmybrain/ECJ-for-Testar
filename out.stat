@@ -1,0 +1,47 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.8604280714522456 Adjusted=0.259038630299829 Hits=0
+Tree 0:
+ previous-action:
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.919194044953014 Adjusted=0.25515450078001656 Hits=0
+Tree 0:
+ random-least-executed-action:
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.2045106940476247 Adjusted=0.3120601225820525 Hits=0
+Tree 0:
+ random-least-executed-action:
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.3648093668820875 Adjusted=0.29719365674692705 Hits=0
+Tree 0:
+ random-least-executed-action:
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.2504420249498223 Adjusted=0.30765046486729364 Hits=0
+Tree 0:
+ random-least-executed-action:
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=2.2045106940476247 Adjusted=0.3120601225820525 Hits=0
+Tree 0:
+ random-least-executed-action:

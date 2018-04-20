@@ -1,0 +1,17 @@
+package testarparser;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class SnNumberOfUnexecutedLeftClicks extends SelectorNodeNumber {
+
+	public SnNumberOfUnexecutedLeftClicks(ArrayList<SelectorNode> children) {
+		super(children);
+	}
+
+	@Override
+	public int getValue(State state, List<Action> availableActions, History history) {
+		return state.getNumberOfActions(Action.ActionType.LEFTCLICK, "UNEX");
+	}
+
+}

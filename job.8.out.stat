@@ -1,0 +1,107 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10101590436480687 Adjusted=0.9082520933945232 Hits=0
+Tree 0:
+ (if-then-else: (and: left-clicks-available:
+     left-clicks-available:) (random-action-of-type:
+     click-action:) (random-action-of-type: type-action:))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10061685605493666 Adjusted=0.9085813964220129 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: click-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10061685605493666 Adjusted=0.9085813964220129 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: click-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10061685605493666 Adjusted=0.9085813964220129 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: click-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10061685605493666 Adjusted=0.9085813964220129 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: click-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10051117972759512 Adjusted=0.9086686427370286 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: type-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10051117972759512 Adjusted=0.9086686427370286 Hits=0
+Tree 0:
+ (if-then-else: (or: (not: type-actions-available:)
+     (equals: number-of-type-actions: number-of-left-clicks:))
+     (random-action-of-type: type-action:) (random-action-of-type:
+     type-action:))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10015285051719748 Adjusted=0.9089646039001632 Hits=0
+Tree 0:
+ (random-action-of-type: click-action:)
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10015285051719748 Adjusted=0.9089646039001632 Hits=0
+Tree 0:
+ (random-action-of-type: click-action:)
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10015285051719748 Adjusted=0.9089646039001632 Hits=0
+Tree 0:
+ (random-action-of-type: click-action:)
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.10015285051719748 Adjusted=0.9089646039001632 Hits=0
+Tree 0:
+ (random-action-of-type: click-action:)
